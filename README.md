@@ -16,7 +16,9 @@ Um das Programm zu beenden kann AltGr+4 benutzt werden.
 
 
 Zum Kompilieren des Source Codes wird der Tiny C Compiler benötigt inklusiv des WinAPI Pakets https://bellard.org/tcc/
+
 Beispiel zum Kompilieren und starten des Programms:
+
 tcc "Gender App.c" Clipboard.c Utils.c List.c -luser32 -run
 
 Zum Editieren des Codes empfehlen wir VisualStudio oder VisualCode:
