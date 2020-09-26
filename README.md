@@ -19,4 +19,4 @@ Zum Kompilieren des Source Codes wird der Tiny C Compiler benötigt inklusiv des
 
 Beispiel zum Kompilieren und starten des Programms:
 
-tcc "Gender App.c" Clipboard.c Utils.c List.c -luser32 -run
+`tcc "Gender App.c" Clipboard.c Utils.c List.c -luser32 -run`
